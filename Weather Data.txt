@@ -1,0 +1,18 @@
+City : kozhikode
+Temperature : 29.650000000000034
+Weather Desc : heavy intensity rain
+Humidity : 80
+Wind Speed : 5.17
+
+City : hyderabad
+Temperature : 28.29000000000002
+Weather Desc : haze
+Humidity : 63
+Wind Speed : 5.14
+
+City : denmark
+Temperature : 20.439999999999998
+Weather Desc : scattered clouds
+Humidity : 85
+Wind Speed : 4.13
+
